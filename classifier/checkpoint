@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\60033849\\speech\\training\\speech-classifier.tfl"
+all_model_checkpoint_paths: "C:\\Users\\60033849\\speech\\training\\speech-classifier.tfl"
